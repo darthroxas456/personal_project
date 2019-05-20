@@ -44,7 +44,7 @@ b.	submit the Personal Project guidelines.
 
 c.	Time log: 4 hours. 
 
-d.	What I learned: 
+d.	What I learned: I found out that there are IDE's made specifically for making games. The tutorial that I am using is made by the company GameMaker, which make their own version of one of these IDEs called GameMakerStudio. At first glance it seems similar to java in terms of coding. However, they seem to have made it somewhat easier, such as a drag and drop feature to be able to assign variables, to code projects. I do not know at this time if I can import it to github directly from this new IDE. More research is required. 
 
 2.	(week 2) 
 
