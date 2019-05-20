@@ -42,33 +42,54 @@ b.	submit the Personal Project guidelines.
 c.	Time log: 4 hours. 
 d.	What I learned: 
 
-2.	(week 2)
+2.	(week 2) 
+
 a.	 watch the GameMaker “My First Game part 1” intro video
+
 b.	code along with them and add personal comments as I go 
+
 c.	submit what I have coded for the week
+
 d.	Time log:
 
 3.	(week 3)
+
 a.	watch the GameMaker “My First Game part 2: setup & Movement” intro video
+
 b.	code along with them and add personal comments as I go 
+
 c.	submit what I have coded for the week
+
 d.	Time log:
 
 4.	(week 4)
+
 a.	watch the GameMaker “My First Game part 3: Attacking & Collisions” intro video
+
 b.	code along with them and add personal comments as I go 
+
 c.	submit what I have coded for the week
+
 d.	Time log:
 
 5.	(week 5)
+
 a.	watch the GameMaker “My First Game part 4: Score, Lives & Effects” intro video
+
 b.	code along with them and add personal comments as I go 
+
 c.	submit what I have coded for the week
+
 d.	Time log:
 
 6.	(week 6)
+
 a.	watch the GameMaker “My First Game part 5: Sound Effects & Polish” intro video
+
 b.	code along with them and add personal comments as I go 
+
 c.	submit what I have coded for the week
+
 d.	celebrate.
+
 e.	Time log:
