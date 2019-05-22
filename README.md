@@ -54,10 +54,10 @@ b.	code along with them and add personal comments as I go
 
 c.	submit what I have coded for the week
 
-d.	Time log:
+d.	Time log: 
 
 e. What I learned: 
-
+I have learned how to use their IDE and the specific way that I need to code in order to get my program to run. I have gone ahead and watched part 2 to futher my project I now have 4 sprites in use at all times. I have the ship that the user flys around; which can move forward with momentum, rotate left or right, and is able to continuously appear on screen after going off by "warping" to the other side. I also have three asteroids that the the user has to dodge that can all rotate, can be chosen at random from the program to spawn and cna come from any direction from the screen. There currently is no collision between the ship and the asteroids, but I will be adding that along with the next video 
 
 3.	(week 3)
 
