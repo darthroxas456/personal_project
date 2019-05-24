@@ -1,4 +1,4 @@
-WEEK 1:
+WEEK 3:
 
 sprite_index = choose( // this allows the asteroid object choose between the 3 asteroid sizes.
 Spr_Small_Asteroid, //this is the small asteroid sprite.
@@ -13,4 +13,4 @@ image_angle = irandom_range(0,359); //this allows the asteroid to
 
 speed = 1; //this sets the speed of the asteroids when the move around the screen.
 
-WEEK 2:
+WEEK 4:
