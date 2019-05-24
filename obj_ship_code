@@ -1,18 +1,28 @@
 // this was written using Game Maker Studio's own code, so it will be different.
 
 if(keyboard_check(vk_left)){
-		image_angle = image_angle + 5;
+		image_angle = image_angle + 5; 
+		// this makes the ship rotate to the left 
+		//5 degrees whenever the left arrow is pressed.
 }
 
 if(keyboard_check(vk_right)){
 		image_angle = image_angle - 5;
+		// this makes the ship rotate to the right 
+		//5 degrees whenever the right arrow is pressed.
 }
 
 if(keyboard_check(vk_up)){
 	motion_add(image_angle, .05);
+	// this makes the ship move forward 
+	//by .05 frames a second when pressing the up arrow. 
 }
 
 if(keyboard_check(vk_down)){
 	motion_add(image_angle, -.05);
+	// this makes the ship move backwards 
+	//by .05 frames a second when pressing the down arrow.
 }
 move_wrap(true,true,sprite_width/2);
+// this makes the ship teleport from one side of the
+//screen to the other when going off the screen.
