@@ -1,7 +1,7 @@
 // this was written using Game Maker Studio's own code, 
 //so it will be different than what we use in class.
 
-// code from lines 4 to line 30 was written in week one:
+// WEEK 1:
 if(keyboard_check(vk_left)){
 		image_angle = image_angle + 5; 
 		// this makes the ship rotate to the left 
@@ -29,4 +29,4 @@ move_wrap(true,true,sprite_width/2);
 // this makes the ship teleport from one side of the
 //screen to the other when going off the screen.
 
-//code from lines 32 to NUM was written in week 2:
+//WEEK 2:
