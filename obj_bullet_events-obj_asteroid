@@ -1,0 +1,26 @@
+WEEK 3:
+instance_destroy(); //this destroys the bullet sprite
+
+with(other){
+	instance_destroy(); //this destroys the asteroid.
+	
+	if(sprite_index == Spr_Large_Asteroid){
+		repeat(2){ 
+    //this creates 2 of the medium asteroids on a large asteroids destruction.
+			var new_asteroid = instance_create_layer(x,y,"Instances",obj_asteroid);
+			new_asteroid.sprite_index = Spr_Med_Asteroid;
+		}
+	} else if(sprite_index == Spr_Med_Asteroid){
+		repeat(2){
+    //this creates 2 of the small asteroids on a medium asteroids destruction.
+			var new_asteroid = instance_create_layer(x,y,"Instances",obj_asteroid);
+			new_asteroid.sprite_index = Spr_Small_Asteroid;
+		}
+	}
+	
+	repeat(10){
+  this creates 10 debris on an asteroids destruction.
+	instance_create_layer(x,y,"Instances",obj_debris);
+	}
+	
+}
