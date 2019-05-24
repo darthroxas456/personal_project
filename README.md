@@ -42,7 +42,7 @@ a.	install required IDE and make sure It’s running properly
 
 b.	submit the Personal Project guidelines. 
 
-c.	Time log: 4 hours. 
+c.	Time log: 2 hours. 
 
 d.	What I learned: I found out that there are IDE's made specifically for making games. The tutorial that I am using is made by the company GameMaker, which make their own version of one of these IDEs called GameMakerStudio. At first glance it seems similar to java in terms of coding. However, they seem to have made it somewhat easier, such as a drag and drop feature to be able to assign variables, to code projects. I do not know at this time if I can import it to github directly from this new IDE. More research is required. 
 
@@ -54,7 +54,7 @@ b.	code along with them and add personal comments as I go
 
 c.	submit what I have coded for the week
 
-d.	Time log: 
+d.	Time log: 4 hours. 
 
 e. What I learned: 
 I have learned how to use their IDE and the specific way that I need to code in order to get my program to run. I have gone ahead and watched part 2 to futher my project I now have 4 sprites in use at all times. I have the ship that the user flys around; which can move forward with momentum, rotate left or right, and is able to continuously appear on screen after going off by "warping" to the other side. I also have three asteroids that the the user has to dodge that can all rotate, can be chosen at random from the program to spawn and cna come from any direction from the screen. There currently is no collision between the ship and the asteroids, but I will be adding that along with the next video 
@@ -67,9 +67,9 @@ b.	code along with them and add personal comments as I go
 
 c.	submit what I have coded for the week
 
-d.	Time log:
+d.	Time log: 3 hours.
 
-e. What I learned:
+e. What I learned: I learned how to create and destroy sprites when they collide with one another. I created a bullet sprite and object which destroys the asteroids and the bullet when the collide. I also added code that creates 2 smaller asteroides when the larger one is desroyed. So far the game runs as intended, I only have to rerun if when all the asteroids are destroyed and if the ship explodes.
 
 
 4.	(week 4)
@@ -80,7 +80,7 @@ b.	code along with them and add personal comments as I go
 
 c.	submit what I have coded for the week
 
-d.	Time log:
+d.	Time log: 
 
 e. What I learned:
 
