@@ -1,0 +1,12 @@
+sprite_index = choose( // this allows the asteroid object choose between the 3 asteroid sizes.
+Spr_Small_Asteroid, //this is the small asteroid sprite.
+Spr_Med_Asteroid,   //this is the medium asteroid sprite.
+Spr_Large_Asteroid);//this is the large asteroid sprite.
+
+direction = irandom_range(0,359); // this allows the asteroid to come
+                                  //from any direction on the screen
+                                  
+image_angle = irandom_range(0,359); //this allows the asteroid to 
+                                    //rotate in any angle
+
+speed = 1; //this sets the speed of the asteroids when the move around the screen.
