@@ -30,3 +30,10 @@ move_wrap(true,true,sprite_width/2);
 //screen to the other when going off the screen.
 
 //WEEK 2:
+// added to events under collision with obj_asteroid
+instance_destroy(); //this destroys the ship when it runs into an asteroid.
+
+repeat(10){
+	instance_create_layer(x,y,"Instances",obj_debris);
+	//this creates 10 sprites that are debris from the ships position.
+}
