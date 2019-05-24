@@ -1,0 +1,4 @@
+WEEK 1:
+move_wrap(true,true,sprite_width/2); //this allows the asteroids to teleport to from
+                                     //one side of the screen to the other.      
+image_angle += 1; // this causes the asteroid to rotate its image 1 frame second.
