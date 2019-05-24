@@ -1,0 +1,3 @@
+WEEK 3:
+instance_destroy();
+// this detroys the bullet when it goes off the screen.
