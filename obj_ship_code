@@ -37,3 +37,7 @@ repeat(10){
 	instance_create_layer(x,y,"Instances",obj_debris);
 	//this creates 10 sprites that are debris from the ships position.
 }
+
+//WEEK 3:
+// added to events under collision with obj_asteroid
+lives -= 1; // removes a life if collison with asteroid is true.
