@@ -1,3 +1,6 @@
+WEEK 4:
+score += 10; // adds 10 points to the score, up to 1000.
+
 WEEK 3:
 instance_destroy(); //this destroys the bullet sprite
 
