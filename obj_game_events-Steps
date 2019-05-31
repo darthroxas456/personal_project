@@ -1,3 +1,5 @@
+WEEK 5:
+audio_play_sound(msc_song,2, true); // plays the music for the intro screen.
 week 4:
 
 if(keyboard_check_pressed(vk_enter)){ // if statment to allow the switch statement to
