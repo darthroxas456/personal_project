@@ -1,0 +1,4 @@
+score = 0; // these 2 variables are global variables
+lives = 3; //they can be accessed by any object.
+
+draw_set_font(fnt_text); //sets the font using an external input.
