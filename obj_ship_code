@@ -41,3 +41,9 @@ repeat(10){
 //WEEK 4:
 // added to events under collision with obj_asteroid
 lives -= 1; // removes a life if collison with asteroid is true.
+
+//WEEK 5:
+// added to events under collision with obj_asteroid
+with(obj_game){ //restarts the room.
+	alarm[1] = room_speed;
+}
