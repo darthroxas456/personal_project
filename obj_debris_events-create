@@ -1,0 +1,4 @@
+WEEK 4:
+
+direction = irandom_range(0,359);// spawns in at a random angle 
+speed = 1; // the speed of the debris.
