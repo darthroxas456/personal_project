@@ -15,4 +15,6 @@ if(room == rm_game){
 	);
 	instance_create_layer(xx, yy, "instances",obj_asteroid)
 	}
+	
+	alarm[0] = 60; // activates the alarm every second in the game.
 }
