@@ -61,7 +61,8 @@ I have learned how to use their IDE and the specific way that I need to code in 
 
 3.	(week 3)
 
-a.	watch the GameMaker “My First Game part 2: setup & Movement” intro video
+a.	watch the GameMaker “My First Game part 2: setup & Movement” and the
+    GameMaker “My First Game part 3: Attacking & Collisions” intro video
 
 b.	code along with them and add personal comments as I go 
 
@@ -74,7 +75,20 @@ e. What I learned: I learned how to create and destroy sprites when they collide
 
 4.	(week 4)
 
-a.	watch the GameMaker “My First Game part 3: Attacking & Collisions” intro video
+a.	watch the the GameMaker “My First Game part 4: Score, Lives & Effects” intro videos
+
+b.	code along with them and add personal comments as I go 
+
+c.	submit what I have coded for the week
+
+d.	Time log: 3 hours
+
+e. What I learned: I learned how to add score when the user destroys asteroids. I also learned how to deduct lives when the ship runs into an asteroid. I added a debris effect to both the asteroid and the ship when they are destroyed. I have a cap for when the player reaches 1000 points they go to the newly created win screen. Also, if the player's lives reachs 0, they are taken to the new GAME OVER screen. I have also created a start screen that explains the movement, how to shoot, and the goal of the game. the user then presses the enter key to go into the game. the same code is used to restart the game when the user either wins or loses. everything runs as intended. I should be learning how to make my sprites of the asteroids and the ship to respawn until either the score reachs 1000, or the lives reaches 0.
+
+
+5.	(week 5)
+
+a.	watch the GameMaker “My First Game part 5: Sound Effects & Polish” intro video
 
 b.	code along with them and add personal comments as I go 
 
@@ -85,30 +99,15 @@ d.	Time log:
 e. What I learned:
 
 
-5.	(week 5)
+6.	(week 6)
 
-a.	watch the GameMaker “My First Game part 4: Score, Lives & Effects” intro video
+a.	add little things to make the game personal to me.
 
-b.	code along with them and add personal comments as I go 
+b. submit for final week.
 
-c.	submit what I have coded for the week
+c.	celebrate.
 
 d.	Time log:
 
 e. What I learned:
-
-
-6.	(week 6)
-
-a.	watch the GameMaker “My First Game part 5: Sound Effects & Polish” intro video
-
-b.	code along with them and add personal comments as I go 
-
-c.	submit what I have coded for the week
-
-d.	celebrate.
-
-e.	Time log:
-
-f. What I learned:
 
