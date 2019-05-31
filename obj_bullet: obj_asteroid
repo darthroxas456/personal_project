@@ -1,0 +1,26 @@
+//WEEK 4:
+
+score += 10; // adds 10 points to the score. 
+
+instance_destroy(); //destroys the bullet
+
+with(other){
+	instance_destroy(); // destroys the asteroid
+	
+	if(sprite_index == Spr_Large_Asteroid){ // this creates 2 smaller asteroids when a larger one is destroyed.
+		repeat(2){
+			var new_asteroid = instance_create_layer(x,y,"Instances",obj_asteroid);
+			new_asteroid.sprite_index = Spr_Med_Asteroid;
+		}
+	} else if(sprite_index == Spr_Med_Asteroid){
+		repeat(2){
+			var new_asteroid = instance_create_layer(x,y,"Instances",obj_asteroid);
+			new_asteroid.sprite_index = Spr_Small_Asteroid;
+		}
+	}
+	
+	repeat(10){  //creates debris when they two collide.
+	instance_create_layer(x,y,"Instances",obj_debris);
+	}
+	
+}
