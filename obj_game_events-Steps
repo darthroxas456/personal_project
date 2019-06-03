@@ -19,11 +19,11 @@ if(room == rm_game){
 	
 	if(score >= 1000){
 		room_goto(rm_win);
-		audio_play_sound(snd_win,1,false); //plays the win sound
+		audio_play_sound(snd_win,1,false); //WEEK 5: plays the win sound
 	}
 
 	if(lives<= 0){
 		room_goto(rm_gameover);
-		audio_play_sound(snd_lose,1,false); //plays the lose sound
+		audio_play_sound(snd_lose,1,false); //WEEK 5: plays the lose sound
 	}
 }
