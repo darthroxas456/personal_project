@@ -1,5 +1,7 @@
 WEEK 5:
+audio_play_sound(msc_song,2,true); // plays the game song while in game room
 
+WEEK 4:
 //all this below is to spawn in 6 asteroids at a random spot on the map.
 if(room == rm_game){
 
