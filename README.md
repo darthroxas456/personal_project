@@ -94,9 +94,9 @@ b.	code along with them and add personal comments as I go
 
 c.	submit what I have coded for the week
 
-d.	Time log: 
+d.	Time log: 4
 
-e. What I learned:
+e. What I learned: I learned how to create and add sounds to my game program. Now the program is fully functional. I have a zap sound for when the ship fires. I have a boom sound whenever the asteroids or ship is destroyed. I have music that plays when the game room is being played. I also have a win and lose sound that plays when the corrisponding room appears to the user. I also found out I can't export the game to a runnable zip file unless I have a non trial version of the IDE. I will be attempting to get a non trial version so I can attach the file to this github so anyone can play it. 
 
 
 6.	(week 6)
