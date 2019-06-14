@@ -107,7 +107,6 @@ b. submit for final week.
 
 c.	celebrate.
 
-d.	Time log:
+d.	Time log: 6 hours
 
-e. What I learned:
-
+e. What I learned: I edited all the asteroids to make them specific to my game. I chose to make it a little easter egg from a game call portal, where there is this saying, "The cake is a lie." I also edited the bullets to rotate between blue and orange, which are the colors of the portals you can use in the game Portal. edited the ship to have a pink heart in the middle to symbolize the companion cube which is something used in Portal as well. I had to upgrade my license with game maker to allow me to export the game as an executable file. But it was well worth it. I have added a zip file that has the final product of my game for anyone to play on windows.
